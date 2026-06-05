@@ -207,7 +207,8 @@
 }
 
 .reservation__title {
-  margin: 0;
+  margin-right: 0;
+  margin-left: 0;
   margin-bottom: 80px;
 
   text-align: center;
