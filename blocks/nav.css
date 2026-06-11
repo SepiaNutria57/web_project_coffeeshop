@@ -32,4 +32,10 @@
   line-height: 20px;
 
   color: #000000;
+
+  transition: color 0.2s ease;
+}
+
+.nav__link:hover {
+  color: #2f80ed;
 }
