@@ -6,6 +6,10 @@
   background-color: #0a2850;
 
   padding: 60px 80px;
+
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__content {
@@ -49,10 +53,7 @@
 
   color: #ffffff;
 
-  font-family: "Inter", Arial, sans-serif;
   font-weight: 700;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__list {
@@ -79,10 +80,6 @@
 
   text-decoration: none;
 
-  font-family: "Inter", Arial, sans-serif;
-  font-size: 16px;
-  line-height: 20px;
-
   transition: color 0.2s ease;
 }
 
@@ -99,10 +96,6 @@
   margin: 108px 0 0;
 
   color: #ffffff;
-
-  font-family: "Inter", Arial, sans-serif;
-  font-size: 16px;
-  line-height: 20px;
 
   position: relative;
   z-index: 2;
